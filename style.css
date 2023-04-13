@@ -84,6 +84,11 @@ body {
     padding-top: 40px;
 }
 
+.contactInfo a{
+    text-decoration: none;
+    color: white;
+}
+
 .title {
     color: azure;
     text-transform: uppercase;
